@@ -1,0 +1,2 @@
+add_executable(ex_binary_search_trees main.cpp)
+target_link_libraries(ex_binary_search_trees PRIVATE common)
